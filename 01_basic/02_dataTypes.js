@@ -39,7 +39,7 @@ console.log(typeof new WeakSet()) // object
 console.log(typeof new Array()) // object
 console.log(typeof new Object()) // object
 console.log(typeof new Error()) // object
-console.log(typeof new Promise()) // object
+//console.log(typeof new Promise()) // object
 console.log(typeof new Proxy({}, {})) // object
 console.log(typeof new Intl.DateTimeFormat()) // object
 console.log(typeof new Intl.NumberFormat()) // object
